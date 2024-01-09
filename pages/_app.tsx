@@ -69,7 +69,7 @@ export default function App({ Component, pageProps }: AppProps) {
         apiHost="https://fortress-flowise.moodmnky.com"
         theme={{
           button: {
-            backgroundColor: "#724036",
+            backgroundColor: "#6C493B",
             right: 20,
             bottom: 20,
             size: "medium",
@@ -78,11 +78,11 @@ export default function App({ Component, pageProps }: AppProps) {
           },
           chatWindow: {
             welcomeMessage: "Welcome back Duncan! How can I be of service?",
-            backgroundColor: "#724036",
+            backgroundColor: "#6C493B",
             height: 700,
             width: 400,
             fontSize: 16,
-            poweredByTextColor: "#724036",
+            poweredByTextColor: "#6C493B",
             botMessage: {
               backgroundColor: "#2F3437",
               textColor: "#FFFFFF",
