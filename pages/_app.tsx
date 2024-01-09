@@ -74,7 +74,7 @@ export default function App({ Component, pageProps }: AppProps) {
             bottom: 20,
             size: "medium",
             iconColor: "white",
-            customIconSrc: "https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/google-messages.svg",
+            customIconSrc: "https://www.fortresscafe.com/wp-content/uploads/2024/01/fortress-flowise-react-icon.svg",
           },
           chatWindow: {
             welcomeMessage: "Welcome back Duncan! How can I be of service?",
